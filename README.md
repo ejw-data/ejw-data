@@ -11,7 +11,7 @@ For detailed information about me, please visit my github website:  [https://ejw
 
 
 ### Currently working with:
-
+[Python](./images/icons8-python-48.png) [R](./images/icons8-r-48.png)
 
 ### Learning:  
 
