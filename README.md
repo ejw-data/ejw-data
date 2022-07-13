@@ -1,16 +1,22 @@
-### Hi there 👋
+### ejw-data
+<hr>
 
-<!--
-**ejw-data/ejw-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **`Erin Wills`**.  I have a background in Chemical Engineering but my early career was about developing logic on a highly proprietary system and transferring that software to a client's system.  In recent years, I have been interested in using more open source tools that are transferable among many industries and are always expanding and evolving.  
 
-Here are some ideas to get you started:
+For detailed information about me, please visit my github website:  [https://ejw-data.github.io/](https://ejw-data.github.io/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### Social Media:
+
+
+### Currently working with:
+
+
+### Learning:  
+
+
+### Previously worked with:  
+
+
+
