@@ -11,7 +11,7 @@ For detailed information about me, please visit my github website:  [https://ejw
 ![Python](./images/icons8-python-48.png) ![SQL](./images/sql-icon.png) ![JavaScript](./images/icons8-javascript-48.png) ![R](./images/icons8-r-48.png) ![Excel](./images/icons8-microsoft-excel-48.png)
 
 ### My IDE's
-![VSCode](./images/icons8-visual-studio-code-2019-48.png) ![Jupyter Notebook](./images/icons8-jupyter-48.png) ![PyCharm](./images/icon-pycharm.png)  
+![VSCode](./images/icons8-visual-studio-code-2019-48.png) ![Jupyter Notebook](./images/icons8-jupyter-48.png) ![PyCharm](./images/icon-pycharm.png) ![Google Colab](./images/icon-colab-48.png)
 
 ### Learning:  
 > See my github website for more information.
