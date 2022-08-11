@@ -16,8 +16,8 @@ For detailed information about me, please visit my github website:  [https://ejw
 ### Learning:  
 > See my github website for more information.  
 *  Geospacial - QGIS, geopandas, PostGis
+*  Simulations (python discrete event)
 *  Time Series Analysis
-*  Neural Networks
 
 ### Previously worked with:  
 > JMP, Minitab, MS Access, PHP, Matlab, MathCad, MS SharePoint, Adobe Illustrator, Adobe InDesign, Adobe Premier, Adobe Photoshop
